@@ -1,1 +1,0 @@
-watch "sh scripts/build.sh" js/src/ css/
