@@ -12,3 +12,4 @@ Software Engineer working on search-related projects.
 
 ## Links
 - [GitHub](https://github.com/hinatades)
+- [X (Twitter)](https://x.com/hinatades)
