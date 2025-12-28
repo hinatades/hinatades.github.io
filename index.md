@@ -12,4 +12,5 @@ Software Engineer 🧑‍💻 focused on improving search experiences.
 
 ## Links
 - [GitHub](https://github.com/hinatades)
+- [LinkedIn](https://www.linkedin.com/in/hinatades/)
 - [X (Twitter)](https://x.com/hinatades)
