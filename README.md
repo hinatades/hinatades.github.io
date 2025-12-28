@@ -1,5 +1,5 @@
 # hinatades.github.io
 
-My developer portfolio page.
+Personal portfolio site.
 
-- https://hinatades.github.io/
+https://hinatades.github.io/
