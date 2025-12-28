@@ -1,6 +1,6 @@
 # hinatades
 
-Software Engineer working on search-related projects.
+Software Engineer 🧑‍💻 focused on improving search experiences.
 
 ## Talks
 - [SpeakerDeck](https://speakerdeck.com/hinatades)
