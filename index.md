@@ -1,6 +1,6 @@
 # hinatades
 
-Software Engineer 🧑‍💻 focused on improving search experiences.
+Software Engineer at a newspaper company, focused on search improvement.
 
 ## Talks
 - [SpeakerDeck](https://speakerdeck.com/hinatades)
