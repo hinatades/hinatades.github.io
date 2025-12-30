@@ -5,8 +5,12 @@
 
 header img {
   border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
 .view img {
   border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
