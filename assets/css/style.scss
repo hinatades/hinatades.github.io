@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.sidebar img {
+header img {
+  border-radius: 50%;
+}
+
+.view img {
   border-radius: 50%;
 }
