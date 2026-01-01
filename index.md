@@ -17,6 +17,9 @@ Software Engineer at a newspaper company, focused on search improvement.
 - [Elasticsearch勉強会で発表してきた](https://medium.com/@hinatades/elasticsearch勉強会で発表してきた-aa93e63e9b1a), Medium, Nov 9, 2020.
 - [Elasticsearchの認証ユーザーを構築前に事前登録する](https://medium.com/@hinatades/basic認証付きelasticsearchを自動構築する-27aa22a4754), Medium, Mar 29, 2020.
 
+## Interests
+Helping people discover the information they need through technologies like search and RAG.
+
 ## Links
 - [GitHub](https://github.com/hinatades)
 - [LinkedIn](https://www.linkedin.com/in/hinatades/)
