@@ -17,5 +17,6 @@ Software Engineer at a newspaper company, focused on search improvement.
 ## Links
 - [GitHub](https://github.com/hinatades)
 - [LinkedIn](https://www.linkedin.com/in/hinatades/)
+- [Medium](https://medium.com/@hinatades)
 - [SpeakerDeck](https://speakerdeck.com/hinatades)
 - [X (Twitter)](https://x.com/hinatades)
