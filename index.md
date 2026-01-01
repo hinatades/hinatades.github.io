@@ -3,11 +3,11 @@
 Software Engineer at a newspaper company, focused on search improvement.
 
 ## Talks
-- 意思決定を支える検索体験を 目指してやってきたこと, NIKKEI Tech Talk #32 検索体験の裏側 〜知りたい情報を最短で届けるための取り組み紹介〜, Apr 24, 2025.
-- 日経のデータベース事業とElasticsearch, Elasticsearch Community in Tokyo 2025, Feb 26, 2025.
-- Empowering Customer Decisions with Elasticsearch: From Search to Answer Generation, Elastic Inc. Booth, AWS re:Invent, Dec 3, 2024.
-- 日経のデータベース事業を支える検索基盤の現在と未来, NIKKEI Tech Talk #6 日経BtoB SaaS開発の裏側とデータ利活用, Apr 20, 2023.
-- 日経テレコンを支えるElasticsearch, 第38回Elasticsearch勉強会, Oct 29, 2020.
+- [意思決定を支える検索体験を 目指してやってきたこと](https://speakerdeck.com/hinatades/nikkei-tech-talk-32), NIKKEI Tech Talk #32 検索体験の裏側 〜知りたい情報を最短で届けるための取り組み紹介〜, Apr 24, 2025.
+- [日経のデータベース事業とElasticsearch](https://speakerdeck.com/hinatades/elasticsearch-community-in-tokyo-2025), Elasticsearch Community in Tokyo 2025, Feb 26, 2025.
+- [Empowering Customer Decisions with Elasticsearch: From Search to Answer Generation](https://speakerdeck.com/hinatades/empowering-customer-decisions-with-elasticsearch-from-search-to-answer-generation), Elastic Inc. Booth, AWS re:Invent, Dec 3, 2024.
+- [日経のデータベース事業を支える検索基盤の現在と未来](https://speakerdeck.com/hinatades/ri-jing-nodetabesushi-ye-wozhi-erujian-suo-ji-pan-noxian-zai-towei-lai), NIKKEI Tech Talk #6 日経BtoB SaaS開発の裏側とデータ利活用, Apr 20, 2023.
+- [日経テレコンを支えるElasticsearch](https://speakerdeck.com/hinatades/ri-jing-terekonwozhi-eruelasticsearch), 第38回Elasticsearch勉強会, Oct 29, 2020.
 
 ## Writing
 - [25年選手のETLをAIで読み解いてみた](https://hack.nikkei.com/blog/advent20251224/), Nikkei Tech Blog, Dec 24, 2025.
