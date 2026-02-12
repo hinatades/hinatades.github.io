@@ -20,6 +20,11 @@ Software Engineer at a newspaper company, focused on search improvement.
 ## Interests
 Helping people discover the information they need through technologies like search and RAG.
 
+## Press
+- [日本経済新聞社 採用サイト WORKSTYLE 密着！エンジニア職の一日](https://www.nikkei.co.jp/saiyo/career/work02.html)
+- [Elastic Customer Story: Nikkei](https://www.elastic.co/jp/customers/nikkei-1)
+- [EndoSnipe 導入事例: 日本経済新聞社](https://www.endosnipe.com/case_nikkei)
+
 ## Links
 - [GitHub](https://github.com/hinatades)
 - [LinkedIn](https://www.linkedin.com/in/hinatades/)
