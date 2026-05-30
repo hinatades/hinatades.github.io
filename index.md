@@ -21,6 +21,8 @@ Software Engineer at a newspaper company, focused on search improvement.
 Helping people discover the information they need through technologies like search and RAG.
 
 ## Press
+- [Elastic Customer Story: Nikkei revamps search infrastructure of over 200 million records with Elastic Cloud](https://www.elastic.co/customers/nikkei)
+- [Elastic 導入事例: 日本経済新聞社、Elastic Cloudで2億件超の検索基盤を刷新](https://www.elastic.co/jp/customers/nikkei)
 - [日本経済新聞社 採用サイト WORKSTYLE 密着！エンジニア職の一日](https://www.nikkei.co.jp/saiyo/career/work02.html)
 - [Elastic Customer Story: Nikkei](https://www.elastic.co/jp/customers/nikkei-1)
 - [EndoSnipe 導入事例: 日本経済新聞社](https://www.endosnipe.com/case_nikkei)
